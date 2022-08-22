@@ -17,7 +17,7 @@ https://github.com/ecsarg/social-network-api
 
 ## Demo
 
-Unfortunately, I was unable to get my program to start with running 'npm start' and was unable to problem solve the issue. 
+I was able to get my program connected to the local host, however, was unabe to post users when trying. Plan to resubmit at later date once fixed. 
 
 ## User Story
 AS A social media startup
